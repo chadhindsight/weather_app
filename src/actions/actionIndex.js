@@ -6,7 +6,7 @@ const ROOT_URL = `http://api.openweathermap.org/data/2.5/forecast?appid=${API_KE
 export const FETCH_WEATHER = 'FETCH_WEATHER';
 
 export const fetchWeather = (city)=> {
-	const url = `${ROOT_URL}&q=${city},us`;
+	const url = `${ROOT_URL}&q=${city},us&cnt=5`;
 	const request = axios.get(url);
 
 	//Log related city data to console to check if call is working
