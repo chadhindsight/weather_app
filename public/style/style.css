@@ -1,0 +1,26 @@
+#root{
+	position: relative;
+}
+ body{
+ 	margin:0;
+   	padding:0;
+ 	height: 100%;
+ }
+ #root {
+   min-height:100%;
+   position:relative;
+}
+ .header-div{
+	text-align: center;
+ }
+ table {
+ 	padding-bottom:60px
+ }
+
+
+/*Adjust table to suite smaller screens*/
+@media (min-width: 40rem) {
+  .table{
+    margin: 0 1rem;
+   } 
+  }
