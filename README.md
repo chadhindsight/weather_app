@@ -1,4 +1,4 @@
-#Weather App
+# Weather App
 Built with React and Redux
 
 ##How it works
