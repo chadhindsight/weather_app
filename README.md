@@ -9,7 +9,7 @@ This app shows the user a weather forcast for their desired city within the unit
 2. Install the dependencies with npm 
 3. Run npm start
 
-If you're not familiar with git you can download a zip file of the project and extract the contents, cd into the project from your terminal, and run 'npm install' and then 'npm start'.
+If you're not familiar with git you can download a zip file of the project and extract the contents, cd into the project from your terminal, and run 'npm install' and then 'npm start'. [Learn More about node here](https://nodejs.org/en/).
 
 ### Some thoughts on the project
 With more time I'd like to possibly allow users to search for cities outside the USA and also add a footer section that links to social media platforms or other related sites of interest. I like the fact that the app does not feel clutered but there a few more UI touches that could have been added like a menu option for a user to look at past forecasts and a suitable footer. I'd also implment some tests specific to the Chart.js and SearchBar.js components. 
