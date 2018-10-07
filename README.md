@@ -2,7 +2,7 @@
 Built with React and Redux
 
 ## How it works
-This app shows the user a weather forcast for their desired city within the united states. The user enters the city in the seach bar and the chart section displays a graphed 5 day forcast for that city. Multiple cities can be entered. 
+This app shows the user a weather forcast for their desired city within the united states. The user enters the city in the seach bar and the chart section displays a graphed 5 day forcast for that city. This gives users a general idea of the weather pattern for that period. Multiple cities can be entered. 
 
 ### Getting Started
 1. Checkout this repo and clone it
